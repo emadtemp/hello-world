@@ -8,4 +8,6 @@ This is created base on tutorial of github itself by me.
 2. i hate you
 3. i kill you
 
-thanks murder!
+its clear?
+
+oh my goodness i revert deleted branch(this branch) now
